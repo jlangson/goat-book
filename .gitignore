@@ -1,3 +1,4 @@
+*.swp
 .idea/
 db.sqlite3
 .venv/
